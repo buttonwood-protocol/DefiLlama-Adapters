@@ -1,0 +1,3 @@
+{
+  "getSupportedTokens": "function getSupportedTokens() external view returns (address[] memory)"
+}

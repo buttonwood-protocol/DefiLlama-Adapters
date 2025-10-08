@@ -1,0 +1,3 @@
+{
+  "supportsInterface": "function supportsInterface(bytes4 interfaceId) external view returns (bool)"
+}
